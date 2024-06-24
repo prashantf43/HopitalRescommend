@@ -1,0 +1,122 @@
+﻿/* Master page design  */
+.navbar-nav-custom-right
+{
+    float: right !important;
+    text-transform: capitalize;
+    color: #fff;
+    margin-right: 0px !important;
+}
+
+.header-top-left
+{
+    float: left;
+}
+
+.header-top-right
+{
+    float: right;
+    width: 65px;
+    margin-top: 2px !important;
+    margin-right: 7px !important;
+}
+
+.header-top-right img
+{
+    width: 100%;
+    height: 45px;
+}
+
+.Radio_button_Gender tr td
+{
+    padding-right: 10px;
+    text-align: center;
+}
+
+.Radio_button_Gender tr td label
+{
+    padding: 0px 3px 4px !important;
+    display: inline-block;
+}
+
+.gridText-left
+{
+    text-align: left !important;
+}
+
+.gridText-left-Email
+{
+    text-align: left !important;
+    text-transform: none !important;
+}
+
+.grid-data
+{
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.new_droprdown
+{
+}
+
+.reminder-btns
+{
+    text-align: left;
+    margin: 0px 0px 15px;
+}
+
+.sms-file-upload
+{
+    padding-bottom: 33px !important;
+}
+
+.sms-label
+{
+    color: #16A3C5 !important;
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+}
+/* Master page design complete  */
+
+/*Enquiry*/
+.new_existing
+{
+    /*overflow:hidden;*/
+    margin-bottom: 10px;
+}
+
+.btnAssign
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.reminder_chkbox span
+{
+    display: block;
+    float: left;
+}
+
+.reminder_chkbox span:last-child
+{
+    margin: -1px 0 0 5px;
+}
+
+.reminder_download
+{
+    background-color: transparent !important;
+    border: none !important;
+    color: #49277E !important;
+    text-decoration: underline !important;
+}
+
+.reminder_download:hover
+{
+    background-color: transparent !important;
+    border: none !important;
+    color: #49277E !important;
+    text-decoration: underline !important;
+}
+/*Enquiry Complete*/
